@@ -1,3 +1,6 @@
 .gradle/
 build/
 .token_cache
+# CodeSpeak
+.codespeak/ignored/
+.env.local
